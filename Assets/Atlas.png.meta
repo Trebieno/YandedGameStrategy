@@ -67,12 +67,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Atlas_0: 4018074224661003100
+      Atlas_1: -4869357254534750094
+      Atlas_10: -7450669156800766785
+      Atlas_2: -6721728136321296765
+      Atlas_3: -7826287199498012479
+      Atlas_4: 5327950094024008212
+      Atlas_5: 6615319868462110837
+      Atlas_6: -1347233719151212251
+      Atlas_7: 7870480730772048316
+      Atlas_8: -407774699277236136
+      Atlas_9: -5599750456436461424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

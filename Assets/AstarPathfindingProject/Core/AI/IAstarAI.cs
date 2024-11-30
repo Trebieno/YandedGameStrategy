@@ -253,6 +253,7 @@ namespace Pathfinding {
 		/// See: Take a look at the <see cref="Pathfinding.AIDestinationSetter"/> source code for an example of how it can be used.
 		/// </summary>
 		System.Action onSearchPath { get; set; }
+		
 
 		/// <summary>
 		/// Fills buffer with the remaining path.

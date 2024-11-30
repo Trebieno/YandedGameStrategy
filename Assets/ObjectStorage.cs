@@ -19,6 +19,7 @@ public class ObjectStorage : MonoBehaviour
     public List<Miner> Miners => _miners;
     public List<Knight> Knights => _knights;
 
+    public MinerLogistics MinerLogistics;
 
     private void Awake()
     {
